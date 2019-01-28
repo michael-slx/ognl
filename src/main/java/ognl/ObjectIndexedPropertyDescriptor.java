@@ -30,7 +30,7 @@
 //--------------------------------------------------------------------------
 package ognl;
 
-import java.beans.*;
+import org.mini2Dx.android.beans.*;
 import java.lang.reflect.*;
 
 /**

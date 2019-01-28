@@ -1,6 +1,6 @@
 package ognl;
 
-import java.beans.IntrospectionException;
+import org.mini2Dx.android.beans.IntrospectionException;
 import java.lang.reflect.Method;
 import java.util.List;
 

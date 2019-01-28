@@ -33,8 +33,8 @@ package ognl;
 import ognl.enhance.ExpressionCompiler;
 import ognl.enhance.UnsupportedCompilationException;
 
-import java.beans.IndexedPropertyDescriptor;
-import java.beans.PropertyDescriptor;
+import org.mini2Dx.android.beans.IndexedPropertyDescriptor;
+import org.mini2Dx.android.beans.PropertyDescriptor;
 import java.lang.reflect.Method;
 import java.util.Iterator;
 
