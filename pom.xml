@@ -2,9 +2,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>7</version>
+        <groupId>android-beans</groupId>
+        <artifactId>thymeleaf-android</artifactId>
+        <version>1</version>
     </parent>
 
     <groupId>ognl</groupId>
