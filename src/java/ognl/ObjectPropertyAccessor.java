@@ -33,7 +33,7 @@ package ognl;
 import ognl.enhance.ExpressionCompiler;
 import ognl.enhance.UnsupportedCompilationException;
 
-import org.mini2Dx.android.beans.IntrospectionException;
+import java.beans.IntrospectionException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.Map;

@@ -3,7 +3,7 @@ package ognl;
 import junit.framework.TestCase;
 import org.ognl.test.objects.*;
 
-import org.mini2Dx.android.beans.PropertyDescriptor;
+import java.beans.PropertyDescriptor;
 import java.io.Serializable;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
